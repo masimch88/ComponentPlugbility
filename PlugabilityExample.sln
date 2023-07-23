@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlugabilityExample", "PlugabilityExample\PlugabilityExample.csproj", "{8E0BFD31-13A9-408B-A2AE-887BF01A905C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlugabilityExample.Tests", "PlugabilityExample.Tests\PlugabilityExample.Tests.csproj", "{62149C65-AE27-4114-BFE3-FA0A3259E0F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E0BFD31-13A9-408B-A2AE-887BF01A905C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0BFD31-13A9-408B-A2AE-887BF01A905C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0BFD31-13A9-408B-A2AE-887BF01A905C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0BFD31-13A9-408B-A2AE-887BF01A905C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62149C65-AE27-4114-BFE3-FA0A3259E0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62149C65-AE27-4114-BFE3-FA0A3259E0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62149C65-AE27-4114-BFE3-FA0A3259E0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62149C65-AE27-4114-BFE3-FA0A3259E0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {518940FE-2C5A-4A06-B9A9-BE7CC710BD30}
+	EndGlobalSection
+EndGlobal
